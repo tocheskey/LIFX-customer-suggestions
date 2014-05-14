@@ -33,7 +33,7 @@ _There are a couple of different ways to display this section_
 
 ## 1  -  I always sleep through my alarm<sup><sup>(25 Requests)</sup></sup>
 
-<table style="width:800px">
+<table>
 <tr>
   <td><table>
     <tr>
