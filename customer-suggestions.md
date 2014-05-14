@@ -12,7 +12,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 | 65,000 Bulbs | 20,000 Customers |
 |:------------:|:----------------:|
 
-
+---------------------------------------------
 
 | 1 | Sunrise / Wake-up Alarm | 25 People Requested this |
 |:-:|:-----------------------|:------------------------:|
