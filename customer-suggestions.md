@@ -20,6 +20,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 ---------------------------------------------
 
+### Help solve these needs and we'll promote your app or project
 _There are a couple of different ways to display this section_
 
 | 1 | Sunrise / Wake-up Alarm | 25 People Requested this |
