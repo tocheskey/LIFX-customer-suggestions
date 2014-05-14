@@ -27,7 +27,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 ---------------------------------------------
 
-## Help solve these needs and we'll promote your app or project
+## Customer Wishlist
 
 ### 1  -  When I get home from work, it's dark
 <!--<sup><sup><sup>(28 Requests)</sup></sup></sup>-->
