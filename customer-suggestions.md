@@ -33,7 +33,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 ## 1   -   I always sleep through my alarm - <sup>25 Requests</sup>
 
 | Medium | Requests|
-|:-|:--:|
+|:----|:---:|
 | Facebook | 13 |
 | Twitter | 5 |
 | Direct | 7 |
