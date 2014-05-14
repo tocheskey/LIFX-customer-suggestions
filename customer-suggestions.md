@@ -54,7 +54,7 @@ _There are a couple of different ways to display this section_
         <td>7</td>
     </tr>
 </table></td>
-  <td>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.</td>
+  <td>Write a script or make an app that gradually increases the brightness of an individual Bulb or Group of Bulbs to wake a person up at a specified time.</td>
 </tr>
 </table>
 
