@@ -35,28 +35,46 @@ _There are a couple of different ways to display this section_
 
 <table style="width:800px">
 <tr>
-  <td></td>
-  <td> </td>
+  <td><table>
+    <tr>
+        <td>Medium</td>
+        <td>Requests</td>
+    </tr>
+    <tr>
+        <td>Facebook</td>
+        <td>13</td>
+    </tr>
+    <tr>
+        <td>Twitter</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Direct</td>
+        <td>7</td>
+    </tr>
+</table></td>
+  <td>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor. </td>
 </tr>
 </table>
 
-<tr>
-<td></td>Medium
-<td></td>Requests|
-</tr>
-<tr>
-<td>Facebook</td>
-<td>13</td>
-</tr>
-<tr>
-<td>Twitter</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Direct</td>
-<td>7</td>
-</tr>
-
+<table>
+    <tr>
+        <td>Medium</td>
+        <td>Requests</td>
+    </tr>
+    <tr>
+        <td>Facebook</td>
+        <td>13</td>
+    </tr>
+    <tr>
+        <td>Twitter</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Direct</td>
+        <td>7</td>
+    </tr>
+</table>
 
 |:----|:---:|
 | Facebook | 13 |
