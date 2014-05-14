@@ -13,13 +13,13 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 |:------------:|:----------------:|
 
 | Region Breakdown | % | ~ No. Of Bulbs |
-|:-|:-:|:-:|
-| North America | 37.8 | 24,570
-| Europe | 30.7 | 19,995
-| Oceania | 17.4 | 11,310
-| Middle East | 6.1 | 3,965
-| Asia | 5.6 | 3,640
-| Other | 2.4 | 1,560
+|:---|:---:|:---:|
+| North America | 37.8 | 24,570 |
+| Europe | 30.7 | 19,995 |
+| Oceania | 17.4 | 11,310 |
+| Middle East | 6.1 | 3,965 |
+| Asia | 5.6 | 3,640 |
+| Other | 2.4 | 1,560 |
 
 ---------------------------------------------
 
