@@ -20,15 +20,16 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 ### Top 10
 
-1. [Geo-Location]()
-2. [Sunrise Alarm]()
-3. [Notifications]()
+1. [Geo-Location](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#1-----when-i-get-home-from-work-its-dark---28-requests--)
+2. [Sunrise Alarm](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#2-----i-always-sleep-through-my-alarm---25-requests--)
+3. [Notifications](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#3-----i-want-my-bulbs-to-tell-me-when-important-stuff-happens---19-requests--)
 4. 
 ---------------------------------------------
 
 ## Help solve these needs and we'll promote your app or project
 
-### 1  -  When I get home from work, it's dark <!--<sup><sup><sup>(28 Requests)</sup></sup></sup>-->
+### 1  -  When I get home from work, it's dark
+<!--<sup><sup><sup>(28 Requests)</sup></sup></sup>-->
 
 <table>
 <tr>
@@ -70,7 +71,8 @@ _Mike_
 
 ---------------------------------------------
 
-### 2  -  I always sleep through my alarm <!--<sup><sup><sup>(25 Requests)</sup></sup></sup>-->
+### 2  -  I always sleep through my alarm
+<!--<sup><sup><sup>(25 Requests)</sup></sup></sup>-->
 
 <table>
 <tr>
@@ -111,7 +113,8 @@ _Gustavo_
 
 ---------------------------------------------
 
-### 3  -  I want my Bulbs to tell me when important stuff happens <!--<sup><sup><sup>(19 Requests)</sup></sup></sup>-->
+### 3  -  I want my Bulbs to tell me when important stuff happens
+<!--<sup><sup><sup>(19 Requests)</sup></sup></sup>-->
 
 <table>
 <tr>
