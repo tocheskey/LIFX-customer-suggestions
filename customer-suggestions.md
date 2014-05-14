@@ -31,7 +31,7 @@ _There are a couple of different ways to display this section_
 
 ---------------------------------------------
 
-## 1   -   I always sleep through my alarm - <sup>25 Requests</sup>
+## 1   -   I always sleep through my alarm<sup>25 Requests</sup>
 
 | Medium | Requests|
 |:----|:---:|
