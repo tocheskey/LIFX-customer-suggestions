@@ -24,10 +24,10 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 ---------------------------------------------
 
 | 1 | Sunrise / Wake-up Alarm | 25 People Requested this |
-|:-:|:-----------------------|:------------------------:|
-|| Facebook | ↳ 13 (Facebook) |
-|| Twitter | ↳ 5 (Twitter) |
-|| Direct | ↳ 7 (Direct) |
+|:-:|:-----------------------|:------------------------|
+||| ↳ 13 (Facebook) |
+||| ↳ 5 (Twitter) |
+||| ↳ 7 (Direct) |
 
 ## 1   -   Sunrise / Wake-up Alarm
 
