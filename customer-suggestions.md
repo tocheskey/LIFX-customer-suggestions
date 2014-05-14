@@ -30,8 +30,6 @@ _There are a couple of different ways to display this section_
 ||| ↳ 5 (Twitter) |
 ||| ↳ 7 (Direct) |
 
-
-
 ---------------------------------------------
 
 ## 1  -  When I get home from work, it's dark<sup><sup><sup>(28 Requests)</sup></sup></sup>
@@ -98,9 +96,6 @@ _Mike_
 </tr>
 </table>
 
-
-
- 
 _Matthew_ 
 > I'd really like to have the ability to use the smart bulbs as an alarm - to wake me in the morning. I'd want the option to use flashing colors or a gradually increasing white light. I think I saw that the alarm is planned and coming in an update - was wondering if that's the case, and maybe when we could use it! (I'm very excited)
 
@@ -109,6 +104,7 @@ _Everton_
 
 _Gustavo_
 > At a certain time (scheduled) the lights could dim-up so that you can start waiking up
+
 ---------------------------------------------
 
 ## 3  -  I want my Bulbs to tell me when important stuff happens<sup><sup><sup>(19 Requests)</sup></sup></sup>
@@ -145,7 +141,6 @@ _David_
 
 _Bart_
 > Set them up at my work to show when tasks at my home computer are done (eg. downloads)
-
 
 ---------------------------------------------
 <!--
