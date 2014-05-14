@@ -18,11 +18,17 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 | Asia | 5.6 | 3,640 |
 | Other | 2.4 | 1,560 |
 
+### Top 10
+
+1. [Geo-Location]()
+2. [Sunrise Alarm]()
+3. [Notifications]()
+4. 
 ---------------------------------------------
 
 ## Help solve these needs and we'll promote your app or project
 
-### 1  -  When I get home from work, it's dark<sup><sup><sup>(28 Requests)</sup></sup></sup>
+### 1  -  When I get home from work, it's dark <!--<sup><sup><sup>(28 Requests)</sup></sup></sup>-->
 
 <table>
 <tr>
@@ -43,6 +49,10 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
         <td>Direct</td>
         <td>4</td>
     </tr>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td><strong>28</strong></td>
+    </tr>
 </table></td>
   <td>Write a script or make an app that can execute actions when you change locations</td>
 </tr>
@@ -60,7 +70,7 @@ _Mike_
 
 ---------------------------------------------
 
-### 2  -  I always sleep through my alarm<sup><sup><sup>(25 Requests)</sup></sup></sup>
+### 2  -  I always sleep through my alarm <!--<sup><sup><sup>(25 Requests)</sup></sup></sup>-->
 
 <table>
 <tr>
@@ -80,6 +90,10 @@ _Mike_
     <tr>
         <td>Direct</td>
         <td>7</td>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td><strong>25</strong></td>
+    </tr>
     </tr>
 </table></td>
   <td>Write a script or make an app that gradually increases the brightness of an individual Bulb or Group of Bulbs to wake a person up at a specified time.</td>
@@ -97,7 +111,7 @@ _Gustavo_
 
 ---------------------------------------------
 
-### 3  -  I want my Bulbs to tell me when important stuff happens<sup><sup><sup>(19 Requests)</sup></sup></sup>
+### 3  -  I want my Bulbs to tell me when important stuff happens <!--<sup><sup><sup>(19 Requests)</sup></sup></sup>-->
 
 <table>
 <tr>
@@ -117,6 +131,10 @@ _Gustavo_
     <tr>
         <td>Direct</td>
         <td>4</td>
+    </tr>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td><strong>19</strong></td>
     </tr>
 </table></td>
   <td>Write a script or make an app that can pulse or flash your Bulbs when you receive a notification</td>
