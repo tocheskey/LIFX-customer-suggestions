@@ -20,9 +20,9 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 ---------------------------------------------
 
-### Help solve these needs and we'll promote your app or project
+## Help solve these needs and we'll promote your app or project
 
-## 1  -  When I get home from work, it's dark<sup><sup><sup>(28 Requests)</sup></sup></sup>
+### 1  -  When I get home from work, it's dark<sup><sup><sup>(28 Requests)</sup></sup></sup>
 
 <table>
 <tr>
@@ -60,7 +60,7 @@ _Mike_
 
 ---------------------------------------------
 
-## 2  -  I always sleep through my alarm<sup><sup><sup>(25 Requests)</sup></sup></sup>
+### 2  -  I always sleep through my alarm<sup><sup><sup>(25 Requests)</sup></sup></sup>
 
 <table>
 <tr>
@@ -97,7 +97,7 @@ _Gustavo_
 
 ---------------------------------------------
 
-## 3  -  I want my Bulbs to tell me when important stuff happens<sup><sup><sup>(19 Requests)</sup></sup></sup>
+### 3  -  I want my Bulbs to tell me when important stuff happens<sup><sup><sup>(19 Requests)</sup></sup></sup>
 
 <table>
 <tr>
