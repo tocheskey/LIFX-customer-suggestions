@@ -22,42 +22,14 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 ### Help solve these needs and we'll promote your app or project
 
-_There are a couple of different ways to display this section_
-
-| 1 | Sunrise / Wake-up Alarm | 25 People Requested this |
+| 1 | Geolocation | 28 People Requested this |
 |:-:|:-----------------------|:------------------------|
-||| ↳ 13 (Facebook) |
-||| ↳ 5 (Twitter) |
-||| ↳ 7 (Direct) |
+||| ↳ 20 (Facebook) |
+||| ↳ 4 (Twitter) |
+||| ↳ 4 (Direct) |
 
----------------------------------------------
+Write a script or make an app that can execute actions when you change locations
 
-## 1  -  When I get home from work, it's dark<sup><sup><sup>(28 Requests)</sup></sup></sup>
-
-<table>
-<tr>
-  <td><table>
-    <tr>
-        <td><strong>Medium</strong></td>
-        <td><strong>Requests</strong></td>
-    </tr>
-    <tr>
-        <td>Facebook</td>
-        <td>20</td>
-    </tr>
-    <tr>
-        <td>Twitter</td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <td>Direct</td>
-        <td>4</td>
-    </tr>
-</table></td>
-  <td>Write a script or make an app that can execute actions when you change locations</td>
-</tr>
-</table>
- 
 _Franklin_ 
 > Allow the lights to figure out what you're doing and automatically change settings accordingly.
 For example: say you come home from work, and you walk into the house. 
@@ -70,31 +42,13 @@ _Mike_
 
 ---------------------------------------------
 
-## 2  -  I always sleep through my alarm<sup><sup><sup>(25 Requests)</sup></sup></sup>
+| 2 | Sunrise / Wake-up Alarm | 25 People Requested this |
+|:-:|:-----------------------|:------------------------|
+||| ↳ 13 (Facebook) |
+||| ↳ 5 (Twitter) |
+||| ↳ 7 (Direct) |
 
-<table>
-<tr>
-  <td><table>
-    <tr>
-        <td><strong>Medium</strong></td>
-        <td><strong>Requests</strong></td>
-    </tr>
-    <tr>
-        <td>Facebook</td>
-        <td>13</td>
-    </tr>
-    <tr>
-        <td>Twitter</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>Direct</td>
-        <td>7</td>
-    </tr>
-</table></td>
-  <td>Write a script or make an app that gradually increases the brightness of an individual Bulb or Group of Bulbs to wake a person up at a specified time.</td>
-</tr>
-</table>
+Write a script or make an app that gradually increases the brightness of an individual Bulb or Group of Bulbs to wake a person up at a specified time.
 
 _Matthew_ 
 > I'd really like to have the ability to use the smart bulbs as an alarm - to wake me in the morning. I'd want the option to use flashing colors or a gradually increasing white light. I think I saw that the alarm is planned and coming in an update - was wondering if that's the case, and maybe when we could use it! (I'm very excited)
@@ -107,32 +61,14 @@ _Gustavo_
 
 ---------------------------------------------
 
-## 3  -  I want my Bulbs to tell me when important stuff happens<sup><sup><sup>(19 Requests)</sup></sup></sup>
+| 3 | Notifications | 19 People Requested this |
+|:-:|:-----------------------|:------------------------|
+||| ↳ 13 (Facebook) |
+||| ↳ 2 (Twitter) |
+||| ↳ 4 (Direct) |
 
-<table>
-<tr>
-  <td><table>
-    <tr>
-        <td><strong>Medium</strong></td>
-        <td><strong>Requests</strong></td>
-    </tr>
-    <tr>
-        <td>Facebook</td>
-        <td>13</td>
-    </tr>
-    <tr>
-        <td>Twitter</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>Direct</td>
-        <td>4</td>
-    </tr>
-</table></td>
-  <td>Write a script or make an app that can pulse or flash your Bulbs when you receive a notification</td>
-</tr>
-</table>
- 
+Write a script or make an app that can pulse or flash your Bulbs when you receive a notification
+
 _Aron_ 
 > For your everyday sports fan, you could have the lights flash your teams colors for an assortment of things notifying you a game has started or finished, when your team has scored or the other
 
@@ -143,6 +79,7 @@ _Bart_
 > Set them up at my work to show when tasks at my home computer are done (eg. downloads)
 
 ---------------------------------------------
+
 <!--
 | Medium | Requests|
 |:----|:---:|
