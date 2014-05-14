@@ -1,13 +1,10 @@
-# LIFX Labs 
-## LIFX Customer Requests
-
-Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor. 
+# LIFX Customer Requests
 
 ### What is this?
 
 At LIFX we're currently experimenting with the following ideas. If you beat us to it and do a great job, we'll promote your app and support your iterations with out in-house team.
 
-### Current Bulbs in the Wild
+### Your Market
 
 | 65,000 Bulbs | 20,000 Customers |
 |:------------:|:----------------:|
@@ -23,12 +20,15 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 ---------------------------------------------
 
+_There are a couple of different ways to display this section_
+
 | 1 | Sunrise / Wake-up Alarm | 25 People Requested this |
 |:-:|:-----------------------|:------------------------|
 ||| ↳ 13 (Facebook) |
 ||| ↳ 5 (Twitter) |
 ||| ↳ 7 (Direct) |
 
+---------------------------------------------
 
 ## 1   -   I always sleep through my alarm - <sup>25 Requests</sup>
 
@@ -37,7 +37,6 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 | Facebook | 13 |
 | Twitter | 5 |
 | Direct | 7 |
-
 
 
 _Matthew_ 
