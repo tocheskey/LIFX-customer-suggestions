@@ -72,7 +72,7 @@ _Mike_
 
 ---------------------------------------------
 
-## 1  -  I always sleep through my alarm<sup><sup><sup>(25 Requests)</sup></sup></sup>
+## 2  -  I always sleep through my alarm<sup><sup><sup>(25 Requests)</sup></sup></sup>
 
 <table>
 <tr>
@@ -111,7 +111,7 @@ _Gustavo_
 > At a certain time (scheduled) the lights could dim-up so that you can start waiking up
 ---------------------------------------------
 
-## 1  -  I always sleep through my alarm<sup><sup><sup>(25 Requests)</sup></sup></sup>
+## 3  -  I want my Bulbs to tell me when important stuff happens<sup><sup><sup>(19 Requests)</sup></sup></sup>
 
 <table>
 <tr>
@@ -126,28 +126,25 @@ _Gustavo_
     </tr>
     <tr>
         <td>Twitter</td>
-        <td>5</td>
+        <td>2</td>
     </tr>
     <tr>
         <td>Direct</td>
-        <td>7</td>
+        <td>4</td>
     </tr>
 </table></td>
-  <td>Write a script or make an app that gradually increases the brightness of an individual Bulb or Group of Bulbs to wake a person up at a specified time.</td>
+  <td>Write a script or make an app that can pulse or flash your Bulbs when you receive a notification</td>
 </tr>
 </table>
-
-
-
  
-_Matthew_ 
-> I'd really like to have the ability to use the smart bulbs as an alarm - to wake me in the morning. I'd want the option to use flashing colors or a gradually increasing white light. I think I saw that the alarm is planned and coming in an update - was wondering if that's the case, and maybe when we could use it! (I'm very excited)
+_Aron_ 
+> For your everyday sports fan, you could have the lights flash your teams colors for an assortment of things notifying you a game has started or finished, when your team has scored or the other
 
-_Everton_ 
-> I would say auto wake up alarm light, anyway, The idea of LIFX bulb it is already a brilliant idea. Love it and I can't wait to get my hands on it.
+_David_ 
+> I think it's a must that it has an emergency warning feature. In otherwords, they should be able to wake someone if the area they're in is about to experience an earthquake, tornado, or a tsunami. In these life and death situations, seconds count.
 
-_Gustavo_
-> At a certain time (scheduled) the lights could dim-up so that you can start waiking up
+_Bart_
+> Set them up at my work to show when tasks at my home computer are done (eg. downloads)
 
 
 ---------------------------------------------
