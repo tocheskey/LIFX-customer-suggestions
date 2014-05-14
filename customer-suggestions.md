@@ -21,6 +21,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 ---------------------------------------------
 
 ### Help solve these needs and we'll promote your app or project
+
 _There are a couple of different ways to display this section_
 
 | 1 | Sunrise / Wake-up Alarm | 25 People Requested this |
@@ -31,7 +32,7 @@ _There are a couple of different ways to display this section_
 
 ---------------------------------------------
 
-## 1  -  I always sleep through my alarm<sup><sup>(25 Requests)</sup></sup>
+## 1  -  I always sleep through my alarm<sup><sup><sup>(25 Requests)</sup></sup></sup>
 
 <table>
 <tr>
@@ -53,7 +54,7 @@ _There are a couple of different ways to display this section_
         <td>7</td>
     </tr>
 </table></td>
-  <td>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor. </td>
+  <td>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.</td>
 </tr>
 </table>
 
