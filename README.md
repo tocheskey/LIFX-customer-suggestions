@@ -20,9 +20,9 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 ### Top 10
 
-1. [Geo-Location](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#1-----when-i-get-home-from-work-its-dark---28-requests--)
-2. [Sunrise Alarm](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#2-----i-always-sleep-through-my-alarm---25-requests--)
-3. [Notifications](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#3-----i-want-my-bulbs-to-tell-me-when-important-stuff-happens---19-requests--)
+1. [Geo-Location](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#1-----when-i-get-home-from-work-its-dark)
+2. [Sunrise Alarm](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#2-----i-always-sleep-through-my-alarm)
+3. [Notifications](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#3-----i-want-my-bulbs-to-tell-me-when-important-stuff-happens)
 
 
 ---------------------------------------------
