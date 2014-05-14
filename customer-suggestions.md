@@ -57,24 +57,7 @@ _There are a couple of different ways to display this section_
 </tr>
 </table>
 
-<table>
-    <tr>
-        <td>Medium</td>
-        <td>Requests</td>
-    </tr>
-    <tr>
-        <td>Facebook</td>
-        <td>13</td>
-    </tr>
-    <tr>
-        <td>Twitter</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>Direct</td>
-        <td>7</td>
-    </tr>
-</table>
+
 
  
 _Matthew_ 
@@ -94,4 +77,25 @@ _Gustavo_
 | Facebook | 13 |
 | Twitter | 5 |
 | Direct | 7 | 
+
+---------------------------------------------
+
+<table>
+    <tr>
+        <td>Medium</td>
+        <td>Requests</td>
+    </tr>
+    <tr>
+        <td>Facebook</td>
+        <td>13</td>
+    </tr>
+    <tr>
+        <td>Twitter</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>Direct</td>
+        <td>7</td>
+    </tr>
+</table>
 -->
