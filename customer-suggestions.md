@@ -33,11 +33,17 @@ _There are a couple of different ways to display this section_
 
 ## 1   -   I always sleep through my alarm<sup>(25 Requests)</sup>
 
-| Medium | Requests|
+<table style="width:800px">
+<tr>
+  <td> | Medium | Requests|
 |:----|:---:|
 | Facebook | 13 |
 | Twitter | 5 |
-| Direct | 7 |
+| Direct | 7 | </td>
+  <td> </td>
+</tr>
+</table>
+
 
 
 _Matthew_ 
