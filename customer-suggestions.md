@@ -15,7 +15,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 
 | 1 | Sunrise / Wake-up Alarm | 25 People Requested this |
-|:-:|:-----------------------:|:------------------------:|
+|:-:|:-----------------------|:------------------------:|
 || Facebook | 13 |
 || Twitter | 5 |
 || Direct | 7 |
