@@ -22,16 +22,6 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 ### Help solve these needs and we'll promote your app or project
 
-_There are a couple of different ways to display this section_
-
-| 1 | Sunrise / Wake-up Alarm | 25 People Requested this |
-|:-:|:-----------------------|:------------------------|
-||| ↳ 13 (Facebook) |
-||| ↳ 5 (Twitter) |
-||| ↳ 7 (Direct) |
-
----------------------------------------------
-
 ## 1  -  When I get home from work, it's dark<sup><sup><sup>(28 Requests)</sup></sup></sup>
 
 <table>
