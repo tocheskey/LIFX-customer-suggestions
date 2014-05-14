@@ -38,8 +38,10 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 _Matthew_ 
 > I'd really like to have the ability to use the smart bulbs as an alarm - to wake me in the morning. I'd want the option to use flashing colors or a gradually increasing white light. I think I saw that the alarm is planned and coming in an update - was wondering if that's the case, and maybe when we could use it! (I'm very excited)
+
 _Everton_ 
 > I would say auto wake up alarm light, anyway, The idea of LIFX bulb it is already a brilliant idea. Love it and I can't wait to get my hands on it.
+
 _Gustavo_
 > At a certain time (scheduled) the lights could dim-up so that you can start waiking up
 
