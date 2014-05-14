@@ -37,8 +37,8 @@ _There are a couple of different ways to display this section_
 <tr>
   <td><table>
     <tr>
-        <td>Medium</td>
-        <td>Requests</td>
+        <td><strong>Medium</strong></td>
+        <td><strong>Requests</strong></td>
     </tr>
     <tr>
         <td>Facebook</td>
