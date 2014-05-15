@@ -22,7 +22,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 ## Customer Wishlist
 
-### Top 5 Wishes
+## Top 5 Wishes
 
 1. [Geo-Location](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#1-----when-i-get-home-from-work-its-dark)
 2. [Sunrise Alarm](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#2-----i-always-sleep-through-my-alarm)
