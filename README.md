@@ -23,8 +23,8 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 1. [Geo-Location](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#1-----when-i-get-home-from-work-its-dark)
 2. [Sunrise Alarm](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#2-----i-always-sleep-through-my-alarm)
 3. [Notifications](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#3-----i-want-my-bulbs-to-tell-me-when-important-stuff-happens)
-4. [Motion Sensor]()
-5. [LIFX TV]()
+4. [Motion Sensor](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#4---i-want-my-bulbs-to-turn-on-when-i-enter-the-room)
+5. [LIFX TV](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#5---i-want-an-immersive-tv-and-movie-experience)
 
 ---------------------------------------------
 
