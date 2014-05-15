@@ -184,7 +184,7 @@ _Bart_
         <td><strong>23</strong></td>
     </tr>
 </table></td>
-  <td>Write a script or make an app that </td>
+  <td>Write a script or make an app that will turn your Bulbs on as you enter a location or walk around the house.</td>
 </tr>
 </table>
  
