@@ -18,12 +18,13 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 | Asia | 5.6 | 3,640 |
 | Other | 2.4 | 1,560 |
 
-### Top 10
+### Top 5
 
 1. [Geo-Location](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#1-----when-i-get-home-from-work-its-dark)
 2. [Sunrise Alarm](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#2-----i-always-sleep-through-my-alarm)
 3. [Notifications](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#3-----i-want-my-bulbs-to-tell-me-when-important-stuff-happens)
-
+4. [Motion Sensor]()
+5. [LIFX TV]()
 
 ---------------------------------------------
 
@@ -155,6 +156,91 @@ _Bart_
 > Set them up at my work to show when tasks at my home computer are done (eg. downloads)
 
 ---------------------------------------------
+
+### 4 - I want my Bulbs to turn on when I enter the room
+
+
+<table>
+<tr>
+  <td><table>
+    <tr>
+        <td><strong>Medium</strong></td>
+        <td><strong>Requests</strong></td>
+    </tr>
+    <tr>
+        <td>Facebook</td>
+        <td>22</td>
+    </tr>
+    <tr>
+        <td>Twitter</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Direct</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td><strong>23</strong></td>
+    </tr>
+</table></td>
+  <td>Write a script or make an app that </td>
+</tr>
+</table>
+ 
+_Stanley_ 
+> I would like a motion-sensor built in. I have backyard parties/bbqs/cookouts/etc. and once it's dark enough my solar lights kick in. I think it would be neat if the LIFX bulbs would turn on low when someone enters the sensor range, get brighter as the object gets closer, and then dimmer as it gets further away.
+
+_Jacob_ 
+> Set up a short range bluetooth signal that will sense a phone as you enter a room and turn on the lights automatically.
+
+_Thomas_ 
+> LIFX could be used for security reasons in combination with a motion sensor.
+
+---------------------------------------------
+
+### 5 - I want an immersive TV and Movie Experience
+
+
+<table>
+<tr>
+  <td><table>
+    <tr>
+        <td><strong>Medium</strong></td>
+        <td><strong>Requests</strong></td>
+    </tr>
+    <tr>
+        <td>Facebook</td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td>Twitter</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td>Direct</td>
+        <td>0</td>
+    </tr>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td><strong>20</strong></td>
+    </tr>
+</table></td>
+  <td>Write a script or make an app that will take the dominant colour from what you're watching on TV and set your Bulbs to that colour.</td>
+</tr>
+</table>
+ 
+_Ally_ 
+> MY IDEA WOULD BE -Movie Mode (maybe somehow linked with Imdb or something) eg for a horror movie, you would search the movie name and it would still react to sound but maybe a light dimming pulse of lights when the movie is doing the creepy music, lights off for most the talking and flash with full bright when someone jumps out.
+
+_Robert_ 
+> Imagine immersing yourself further into a movie or a game with thunder and LIFX lightning or maybe an explosion triggering a bright yellow flash in the room. Would really add another dimension to home entertainment.
+
+_Jim_ 
+> Jim DM In movie theaters (IMAX style) to amplify 3D feelings of movies
+
+---------------------------------------------
+
 <!--
 | Medium | Requests|
 |:----|:---:|
