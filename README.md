@@ -43,15 +43,15 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 </tr>
 </table>
  
-_Franklin_ (commenting on geo-location)
-> "Allow the lights to figure out what you're doing and automatically change settings accordingly.
-For example: say you come home from work, and you walk into the house."
+Franklin (commenting on geo-location)
+> _"Allow the lights to figure out what you're doing and automatically change settings accordingly.
+For example: say you come home from work, and you walk into the house."_
 
-_Leroy_ (commenting on geo-location)
-> "Hook LIFX up to Wifi GPS. Then you don't need to control the lights and turn them on yourself."
+Leroy (commenting on geo-location)
+> _"Hook LIFX up to Wifi GPS. Then you don't need to control the lights and turn them on yourself."_
 
-_Mike_ (commenting on geo-location)
-> "A great idea would be auto pairing with my smartphone and some settings to have lights automatically turn on and off based on proximity."
+Mike (commenting on geo-location)
+> _"A great idea would be auto pairing with my smartphone and some settings to have lights automatically turn on and off based on proximity."_
 
 ---------------------------------------------
 
