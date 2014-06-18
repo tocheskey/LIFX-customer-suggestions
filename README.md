@@ -32,6 +32,8 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 <!--<sup><sup><sup>(28 Requests)</sup></sup></sup>-->
 
 <table>
+<tr>
+<td>
     <table>
         <tr>
             <td>28</td>
@@ -42,6 +44,8 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
             <td>When I get home from work, it's dark</td>
         </tr>
     </table>
+</td>
+</tr>
 </table>
  
 _Franklin_ 
