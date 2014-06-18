@@ -28,7 +28,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 4. [Motion Sensor](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#4---i-want-my-bulbs-to-turn-on-when-i-enter-the-room)
 5. [LIFX TV](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#5---i-want-an-immersive-tv-and-movie-experience)
 
-### 1  -  Geolocation
+### 1  -  Geo-location
 <!--<sup><sup><sup>(28 Requests)</sup></sup></sup>-->
 
 <table>
@@ -43,15 +43,15 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 </tr>
 </table>
  
-_Franklin_ 
-> Allow the lights to figure out what you're doing and automatically change settings accordingly.
-For example: say you come home from work, and you walk into the house. 
+_Franklin_ (commenting on geo-location)
+> "Allow the lights to figure out what you're doing and automatically change settings accordingly.
+For example: say you come home from work, and you walk into the house."
 
-_Leroy_ 
-> Hook LIFX up to Wifi GPS. Then you don't need to control the lights and turn them on yourself.
+_Leroy_ (commenting on geo-location)
+> "Hook LIFX up to Wifi GPS. Then you don't need to control the lights and turn them on yourself."
 
-_Mike_
-> A great idea would be auto pairing with my smartphone and some settings to have lights automatically turn on and off based on proximity.
+_Mike_ (commenting on geo-location)
+> "A great idea would be auto pairing with my smartphone and some settings to have lights automatically turn on and off based on proximity."
 
 ---------------------------------------------
 
