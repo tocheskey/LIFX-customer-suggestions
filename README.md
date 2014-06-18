@@ -33,6 +33,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 <table>
 <tr>
+<table>
   <td>28</td>
     </tr>
 </table></td>
