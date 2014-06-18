@@ -32,13 +32,16 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 <!--<sup><sup><sup>(28 Requests)</sup></sup></sup>-->
 
 <table>
-<tr>
-<table>
-  <td>28</td>
-    </tr>
-</table></td>
-  <td>When I get home from work, it's dark</td>
-</tr>
+    <table>
+        <tr>
+            <td>28</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td>When I get home from work, it's dark</td>
+        </tr>
+    </table>
 </table>
  
 _Franklin_ 
