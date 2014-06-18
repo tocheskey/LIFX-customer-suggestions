@@ -33,18 +33,9 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 <table>
 <tr>
-<td>
-    <table>
-        <tr>
             <td>28</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
             <td>When I get home from work, it's dark</td>
-        </tr>
-    </table>
-</td>
+
 </tr>
 </table>
  
