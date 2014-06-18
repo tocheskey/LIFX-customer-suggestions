@@ -33,7 +33,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 <table>
 <tr>
-            <td>28</td>
+            <td>### 28</td>
             <td>When I get home from work, it's dark</td>
 
 </tr>
