@@ -4,25 +4,23 @@
 
 At LIFX we're currently experimenting with the following ideas. If you beat us to it and do a great job, we'll promote your app and support your iterations with out in-house team.
 
-### Your Market
+### Your Market - 20,000 Customers
 
-| 65,000 Bulbs | 20,000 Customers |
-|:------------:|:----------------:|
+<!--| 65,000 Bulbs | 20,000 Customers |
+|:------------:|:----------------:|-->
 
-| Region Breakdown | % | ~ No. Of Bulbs |
-|:---|:---:|:---:|
-| North America | 37.8 | 24,570 |
-| Europe | 30.7 | 19,995 |
-| Oceania | 17.4 | 11,310 |
-| Middle East | 6.1 | 3,965 |
-| Asia | 5.6 | 3,640 |
-| Other | 2.4 | 1,560 |
+| Region Breakdown | % |
+|:---|:---:|
+| North America | 37.8 |
+| Europe | 30.7 |
+| Oceania | 17.4 |
+| Middle East | 6.1 |
+| Asia | 5.6 |
+| Other | 2.4 |
 
 ---------------------------------------------
 
-## Customer Wishlist
-
-## Top 5 Wishes
+## Top 20
 
 1. [Geo-Location](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#1-----when-i-get-home-from-work-its-dark)
 2. [Sunrise Alarm](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#2-----i-always-sleep-through-my-alarm)
@@ -30,34 +28,15 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 4. [Motion Sensor](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#4---i-want-my-bulbs-to-turn-on-when-i-enter-the-room)
 5. [LIFX TV](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#5---i-want-an-immersive-tv-and-movie-experience)
 
-### 1  -  When I get home from work, it's dark
+### 1  -  Geolocation
 <!--<sup><sup><sup>(28 Requests)</sup></sup></sup>-->
 
 <table>
 <tr>
-  <td><table>
-    <tr>
-        <td><strong>Medium</strong></td>
-        <td><strong>Requests</strong></td>
-    </tr>
-    <tr>
-        <td>Facebook</td>
-        <td>20</td>
-    </tr>
-    <tr>
-        <td>Twitter</td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <td>Direct</td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <td><strong>Total</strong></td>
-        <td><strong>28</strong></td>
+  <td>28</td>
     </tr>
 </table></td>
-  <td>Write a script or make an app that can execute actions when you change locations</td>
+  <td>When I get home from work, it's dark</td>
 </tr>
 </table>
  
