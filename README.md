@@ -33,7 +33,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 <table>
 <tr>
-            <td><p style="font-size:100px">28</p></td>
+            <td><font size="100">28</font></td>
             <td>When I get home from work, it's dark</td>
 
 </tr>
