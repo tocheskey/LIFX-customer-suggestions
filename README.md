@@ -22,16 +22,16 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 ## Top 10
 
-1. [Timers & Scheduling]()
-2. [Entertainment & Parties]()
-3. [External Integrations]()
-4. [Sunrise Alarms]()
-5. [Remote Operations]()
-6. [Notifications]()
-7. [Geo-Location]()
-8. [Desktop Apps]()
-9. [Photography]()
-10. [Voice Control]()
+1. [Timers & Scheduling](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#1---timers--scheduling)
+2. [Entertainment & Parties](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#2---entertainment--party-functions)
+3. [External Integrations](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#3---external-integrations)
+4. [Sunrise Alarms](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#4-----alarms)
+5. [Remote Operations](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#5---remote-operation)
+6. [Notifications](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#6-----notifications)
+7. [Geo-Location](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#7-----geo-location)
+8. [Desktop Apps](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#8---desktop-app)
+9. [Photography](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#9---phoography)
+10. [Voice Control](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#10----voice-control)
 
 ## Customer Wishlist (in order)
 
