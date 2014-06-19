@@ -47,7 +47,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 | Requests | Use-case |
 |:----:|:----:|
-| #28 | When I get home from work, it's dark |
+| <h1>28</h1> | When I get home from work, it's dark |
 
 #28
 
@@ -61,7 +61,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
  
 Franklin
 > _"Allow the lights to figure out what you're doing and automatically change settings accordingly.
-For example: say you come home from work, and you walk into the house."_
+For example: say you ome home from work, and you walk into the house."_
 
 Leroy
 > _"Hook LIFX up to Wifi GPS. Then you don't need to control the lights and turn them on yourself."_
