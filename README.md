@@ -43,8 +43,8 @@ For example: say you ome home from work, and you walk into the house."_
 Leroy
 > _"Hook LIFX up to Wifi GPS. Then you don't need to control the lights and turn them on yourself."_
 
-Mike
-> _"A great idea would be auto pairing with my smartphone and some settings to have lights automatically turn on and off based on proximity."_
+<!--Mike
+> _"A great idea would be auto pairing with my smartphone and some settings to have lights automatically turn on and off based on proximity."_-->
 
 If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/1)
     
