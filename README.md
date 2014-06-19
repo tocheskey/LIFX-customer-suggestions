@@ -67,7 +67,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 ---------------------------------------------
 
-### External Integrations
+### 3 - External Integrations
 
 | Requests | Use-case |
 |:----:|:----:|
