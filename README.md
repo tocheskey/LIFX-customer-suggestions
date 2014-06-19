@@ -47,7 +47,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h2>28</h2> | When I get home from work, it's dark |
+| <big>28</big> | When I get home from work, it's dark |
 
 </tr>
 </table>
