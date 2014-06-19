@@ -31,33 +31,10 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 ## Customer Wishlist (in order)
 
 ### 1  -  Geo-location
-<!--<sup><sup><sup>(28 Requests)</sup></sup></sup>-->
-
-<table>
-<tr>
-    <td>Requests</td>
-    <td>Use-case</td>
-</tr>
-<tr>
-    <td><h2>28</h2></td>
-    <td>When I get home from work, it's dark</td>
-
-</tr>
-</table>
 
 | Requests | Use-case |
 |:----:|:----:|
 | <h1>28</h1> | When I get home from work, it's dark |
-
-#28
-
-</tr>
-</table>
-
-<big>28</big>
-
-28
-
  
 Franklin
 > _"Allow the lights to figure out what you're doing and automatically change settings accordingly.
