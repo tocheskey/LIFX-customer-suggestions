@@ -164,7 +164,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 ---------------------------------------------
 
-### 9 - Phoography
+### 9 - Photography
 
 | Requests | Use-case |
 |:----:|:----:|
