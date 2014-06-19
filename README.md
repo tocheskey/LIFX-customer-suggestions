@@ -20,21 +20,122 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 ---------------------------------------------
 
-## Top 20
+## Top 10
 
-1. [Geo-Location](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#1-----when-i-get-home-from-work-its-dark)
-2. [Sunrise Alarm](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#2-----i-always-sleep-through-my-alarm)
-3. [Notifications](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#3-----i-want-my-bulbs-to-tell-me-when-important-stuff-happens)
-4. [Motion Sensor](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#4---i-want-my-bulbs-to-turn-on-when-i-enter-the-room)
-5. [LIFX TV](https://github.com/LIFX/LIFX-customer-suggestions/blob/master/README.md#5---i-want-an-immersive-tv-and-movie-experience)
+1. [Timers & Scheduling]()
+2. [Entertainment & Parties]()
+3. [External Integrations]()
+4. [Sunrise Alarms]()
+5. [Remote Operations]()
+6. [Notifications]()
+7. [Geo-Location]()
+8. [Desktop Apps]()
+9. [Photography]()
+10. [Voice Control]()
 
 ## Customer Wishlist (in order)
 
-### 1  -  Geo-location
+### 1 - Timers & Scheduling
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>28</h1> | When I get home from work, it's dark |
+| <h1>78</h1> |  |
+ 
+
+> _""_
+
+
+> _""_
+
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/1)
+
+---------------------------------------------
+
+### 2 - Entertainment & Party Functions
+
+| Requests | Use-case |
+|:----:|:----:|
+| <h1>77</h1> | Music Visualisation, Matching the color of LIFX bulbs to the TV screens |
+ 
+Ally
+> _"MY IDEA WOULD BE -Movie Mode (maybe somehow linked with Imdb or something) eg for a horror movie, you would search the movie name and it would still react to sound but maybe a light dimming pulse of lights when the movie is doing the creepy music, lights off for most the talking and flash with full bright when someone jumps out."_
+
+Robert
+> _"Imagine immersing yourself further into a movie or a game with thunder and LIFX lightning or maybe an explosion triggering a bright yellow flash in the room. Would really add another dimension to home entertainment."_
+
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/2)
+
+---------------------------------------------
+
+### External Integrations
+
+| Requests | Use-case |
+|:----:|:----:|
+| <h1>60</h1> | Motion Sensors, Doorbells, Z-wave |
+
+Stanley
+> _"I would like a motion-sensor built in. I have backyard parties/bbqs/cookouts/etc. and once it's dark enough my solar lights kick in. I think it would be neat if the LIFX bulbs would turn on low when someone enters the sensor range, get brighter as the object gets closer, and then dimmer as it gets further away."_
+
+Jacob
+> _"Set up a short range bluetooth signal that will sense a phone as you enter a room and turn on the lights automatically."_
+
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/3)
+
+---------------------------------------------
+
+### 4  -  Alarms
+
+| Requests | Use-case |
+|:----:|:----:|
+| <h1>56</h1> | I always sleep through my alarm |
+ 
+Matthew
+> _"I'd really like to have the ability to use the smart bulbs as an alarm - to wake me in the morning. I'd want the option to use flashing colors or a gradually increasing white light. I think I saw that the alarm is planned and coming in an update - was wondering if that's the case, and maybe when we could use it! (I'm very excited)"_
+
+Everton
+> _"I would say auto wake up alarm light, anyway, The idea of LIFX bulb it is already a brilliant idea. Love it and I can't wait to get my hands on it."_
+
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/4)
+
+---------------------------------------------
+
+### 5 - Remote Operation
+
+| Requests | Use-case |
+|:----:|:----:|
+| <h1>52</h1> | Internet, IFTTT, Security Mode |
+ 
+
+> _""_
+
+
+> _""_
+
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/5)
+
+---------------------------------------------
+
+### 6  -  Notifications
+
+| Requests | Use-case |
+|:----:|:----:|
+| <h1>50</h1> | I want my Bulbs to tell me when important stuff happens |
+ 
+Aron
+> _"For your everyday sports fan, you could have the lights flash your teams colors for an assortment of things notifying you a game has started or finished, when your team has scored or the other"_
+
+David
+> _"I think it's a must that it has an emergency warning feature. In otherwords, they should be able to wake someone if the area they're in is about to experience an earthquake, tornado, or a tsunami. In these life and death situations, seconds count."_
+
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/6)
+
+---------------------------------------------
+
+### 7  -  Geo-location
+
+| Requests | Use-case |
+|:----:|:----:|
+| <h1>36</h1> | When I get home from work, it's dark |
  
 Franklin
 > _"Allow the lights to figure out what you're doing and automatically change settings accordingly.
@@ -43,223 +144,102 @@ For example: say you ome home from work, and you walk into the house."_
 Leroy
 > _"Hook LIFX up to Wifi GPS. Then you don't need to control the lights and turn them on yourself."_
 
-<!--Mike
-> _"A great idea would be auto pairing with my smartphone and some settings to have lights automatically turn on and off based on proximity."_-->
-
-If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/1)
-    
----------------------------------------------
-
-### 2  -  I always sleep through my alarm
-<!--<sup><sup><sup>(25 Requests)</sup></sup></sup>-->
-
-<table>
-<tr>
-  <td><table>
-    <tr>
-        <td><strong>Medium</strong></td>
-        <td><strong>Requests</strong></td>
-    </tr>
-    <tr>
-        <td>Facebook</td>
-        <td>13</td>
-    </tr>
-    <tr>
-        <td>Twitter</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>Direct</td>
-        <td>7</td>
-    <tr>
-        <td><strong>Total</strong></td>
-        <td><strong>25</strong></td>
-    </tr>
-    </tr>
-</table></td>
-  <td>Write a script or make an app that gradually increases the brightness of an individual Bulb or Group of Bulbs to wake a person up at a specified time.</td>
-</tr>
-</table>
-
-_Matthew_ 
-> I'd really like to have the ability to use the smart bulbs as an alarm - to wake me in the morning. I'd want the option to use flashing colors or a gradually increasing white light. I think I saw that the alarm is planned and coming in an update - was wondering if that's the case, and maybe when we could use it! (I'm very excited)
-
-_Everton_ 
-> I would say auto wake up alarm light, anyway, The idea of LIFX bulb it is already a brilliant idea. Love it and I can't wait to get my hands on it.
-
-_Gustavo_
-> At a certain time (scheduled) the lights could dim-up so that you can start waiking up
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/7) 
 
 ---------------------------------------------
 
-### 3  -  I want my Bulbs to tell me when important stuff happens
-<!--<sup><sup><sup>(19 Requests)</sup></sup></sup>-->
+### 8 - Desktop App
 
-<table>
-<tr>
-  <td><table>
-    <tr>
-        <td><strong>Medium</strong></td>
-        <td><strong>Requests</strong></td>
-    </tr>
-    <tr>
-        <td>Facebook</td>
-        <td>13</td>
-    </tr>
-    <tr>
-        <td>Twitter</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>Direct</td>
-        <td>4</td>
-    </tr>
-    <tr>
-        <td><strong>Total</strong></td>
-        <td><strong>19</strong></td>
-    </tr>
-</table></td>
-  <td>Write a script or make an app that can pulse or flash your Bulbs when you receive a notification</td>
-</tr>
-</table>
+| Requests | Use-case |
+|:----:|:----:|
+| <h1>21</h1> | An app that can control your LIFX bulbs from your Mac or PC |
  
-_Aron_ 
-> For your everyday sports fan, you could have the lights flash your teams colors for an assortment of things notifying you a game has started or finished, when your team has scored or the other
 
-_David_ 
-> I think it's a must that it has an emergency warning feature. In otherwords, they should be able to wake someone if the area they're in is about to experience an earthquake, tornado, or a tsunami. In these life and death situations, seconds count.
+> _""_
 
-_Bart_
-> Set them up at my work to show when tasks at my home computer are done (eg. downloads)
+
+> _""_
+
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/8)
 
 ---------------------------------------------
 
-### 4 - I want my Bulbs to turn on when I enter the room
+### 9 - Phoography
 
-
-<table>
-<tr>
-  <td><table>
-    <tr>
-        <td><strong>Medium</strong></td>
-        <td><strong>Requests</strong></td>
-    </tr>
-    <tr>
-        <td>Facebook</td>
-        <td>22</td>
-    </tr>
-    <tr>
-        <td>Twitter</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>Direct</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td><strong>Total</strong></td>
-        <td><strong>23</strong></td>
-    </tr>
-</table></td>
-  <td>Write a script or make an app that will turn your Bulbs on as you enter a location or walk around the house.</td>
-</tr>
-</table>
+| Requests | Use-case |
+|:----:|:----:|
+| <h1>18</h1> | Use in dark room, Colour accuracy |
  
-_Stanley_ 
-> I would like a motion-sensor built in. I have backyard parties/bbqs/cookouts/etc. and once it's dark enough my solar lights kick in. I think it would be neat if the LIFX bulbs would turn on low when someone enters the sensor range, get brighter as the object gets closer, and then dimmer as it gets further away.
 
-_Jacob_ 
-> Set up a short range bluetooth signal that will sense a phone as you enter a room and turn on the lights automatically.
+> _""_
 
-_Thomas_ 
-> LIFX could be used for security reasons in combination with a motion sensor.
+
+> _""_
+
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/9)
 
 ---------------------------------------------
 
-### 5 - I want an immersive TV and Movie Experience
+### 10 -  Voice Control
 
-
-<table>
-<tr>
-  <td><table>
-    <tr>
-        <td><strong>Medium</strong></td>
-        <td><strong>Requests</strong></td>
-    </tr>
-    <tr>
-        <td>Facebook</td>
-        <td>20</td>
-    </tr>
-    <tr>
-        <td>Twitter</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>Direct</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td><strong>Total</strong></td>
-        <td><strong>20</strong></td>
-    </tr>
-</table></td>
-  <td>Write a script or make an app that will take the dominant colour from what you're watching on TV and set your Bulbs to that colour.</td>
-</tr>
-</table>
+| Requests | Use-case |
+|:----:|:----:|
+| <h1>13</h1> | An app that can control your LIFX bulbs using your voice |
  
-_Ally_ 
-> MY IDEA WOULD BE -Movie Mode (maybe somehow linked with Imdb or something) eg for a horror movie, you would search the movie name and it would still react to sound but maybe a light dimming pulse of lights when the movie is doing the creepy music, lights off for most the talking and flash with full bright when someone jumps out.
 
-_Robert_ 
-> Imagine immersing yourself further into a movie or a game with thunder and LIFX lightning or maybe an explosion triggering a bright yellow flash in the room. Would really add another dimension to home entertainment.
-
-_Jim_ 
-> Jim DM In movie theaters (IMAX style) to amplify 3D feelings of movies
-
----------------------------------------------
----------------------------------------------
-
- <div id="disqus_thread"></div>
-    <script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'lifx'; // required: replace example with your forum shortname
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+> _""_
 
 
-<!--
-| Medium | Requests|
-|:----|:---:|
-| Facebook | 13 |
-| Twitter | 5 |
-| Direct | 7 | 
+> _""_
+
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/10)
 
 ---------------------------------------------
 
-<table>
-    <tr>
-        <td>Medium</td>
-        <td>Requests</td>
-    </tr>
-    <tr>
-        <td>Facebook</td>
-        <td>13</td>
-    </tr>
-    <tr>
-        <td>Twitter</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>Direct</td>
-        <td>7</td>
-    </tr>
-</table>
--->
+### 11 - Gesture Control
+
+| Requests | Use-case |
+|:----:|:----:|
+| <h1>10</h1> | An app that can control LIFX bulbs using gestures and movement |
+ 
+
+> _""_
+
+
+> _""_
+
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/11)
+
+---------------------------------------------
+
+### 12 - Emergency Lighting
+
+| Requests | Use-case |
+|:----:|:----:|
+| <h1>9</h1> | LIFX bulbs can be used to light a path leading to an exit |
+ 
+
+> _""_
+
+
+> _""_
+
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/12)
+
+---------------------------------------------
+
+### 13 - LIFX Floor Plan
+
+| Requests | Use-case |
+|:----:|:----:|
+| <h1>3</h1> | Map out all of your LIFX bulbs throughout your house |
+ 
+
+> _""_
+
+
+> _""_
+
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/13)
+
+---------------------------------------------
