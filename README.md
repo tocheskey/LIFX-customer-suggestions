@@ -44,6 +44,13 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 </tr>
 </table>
+
+| Requests | Use-case |
+|:----:|:----:|
+| <h2>28</h2> | When I get home from work, it's dark |
+
+</tr>
+</table>
  
 Franklin
 > _"Allow the lights to figure out what you're doing and automatically change settings accordingly.
@@ -55,7 +62,7 @@ Leroy
 Mike
 > _"A great idea would be auto pairing with my smartphone and some settings to have lights automatically turn on and off based on proximity."_
 
-
+If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/1)
     
 ---------------------------------------------
 
