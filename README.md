@@ -51,6 +51,9 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 </tr>
 </table>
+<big>28</big>
+28
+
  
 Franklin
 > _"Allow the lights to figure out what you're doing and automatically change settings accordingly.
