@@ -51,7 +51,9 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 </tr>
 </table>
+
 <big>28</big>
+
 28
 
  
