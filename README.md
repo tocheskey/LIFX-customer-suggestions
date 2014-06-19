@@ -39,7 +39,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
     <td>Use-case</td>
 </tr>
 <tr>
-    <td><h1>28</h1></td>
+    <td><h2>28</h2></td>
     <td>When I get home from work, it's dark</td>
 
 </tr>
