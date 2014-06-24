@@ -139,7 +139,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
  
 Franklin
 > _"Allow the lights to figure out what you're doing and automatically change settings accordingly.
-For example: say you ome home from work, and you walk into the house."_
+For example: say you come home from work, and you walk into the house."_
 
 Leroy
 > _"Hook LIFX up to Wifi GPS. Then you don't need to control the lights and turn them on yourself."_
