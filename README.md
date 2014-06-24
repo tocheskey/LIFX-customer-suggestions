@@ -241,3 +241,5 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/13)
 
 ---------------------------------------------
+
+* Percentages are indicitave of total requests received as listed above
