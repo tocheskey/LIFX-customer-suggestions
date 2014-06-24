@@ -4,10 +4,8 @@
 
 At LIFX we're currently experimenting with the following ideas. If you beat us to it and do a great job, we'll promote your app and support your iterations with out in-house team.
 
-### Your Market - 20,000 Customers
+### Your Market - 20,000+ Customers
 
-<!--| 65,000 Bulbs | 20,000 Customers |
-|:------------:|:----------------:|-->
 
 | Region Breakdown | % |
 |:---|:---:|
