@@ -90,7 +90,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 | <h1>56</h1> | I always sleep through my alarm |
  
 Matthew
-> _"I'd really like to have the ability to use the smart bulbs as an alarm - to wake me in the morning. I'd want the option to use flashing colors or a gradually increasing white light. I think I saw that the alarm is planned and coming in an update - was wondering if that's the case, and maybe when we could use it! (I'm very excited)"_
+> _"I'd really like to have the ability to use the smart bulbs as an alarm - to wake me in the morning. I'd want the option to use flashing colors or a gradually increasing white light."_
 
 Everton
 > _"I would say auto wake up alarm light, anyway, The idea of LIFX bulb it is already a brilliant idea. Love it and I can't wait to get my hands on it."_
