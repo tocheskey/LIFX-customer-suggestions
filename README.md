@@ -242,4 +242,4 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 ---------------------------------------------
 
-* Percentages are indicitave of total requests received as listed above
+Percentages are representative of total requests received as listed above
