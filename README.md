@@ -55,7 +55,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>77</h1> | Music Visualisation, Matching the color of LIFX bulbs to the TV screens |
+| <h1>77</h1> | Music Visualisation, Matching the color of LIFX bulbs to TV, Movies, Gaming, or other items on TV screens |
  
 Ally
 > _"MY IDEA WOULD BE -Movie Mode (maybe somehow linked with Imdb or something) eg for a horror movie, you would search the movie name and it would still react to sound but maybe a light dimming pulse of lights when the movie is doing the creepy music, lights off for most the talking and flash with full bright when someone jumps out."_
