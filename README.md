@@ -39,11 +39,11 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 |:----:|:----:|
 | <h1>78</h1> |  |
  
+Gustavo
+> _"When your phone countdown gets off, that the lights could change color in a sequence until you snooze your phone."_
 
-> _""_
-
-
-> _""_
+Rico
+> _"To make a timed and random schedule for the bulbs, I.e. when on vacation or away from your house, to let your lamps turn on/off according to a scheduled time AND randomly, to fool burglers and intruders to think that someone is home."_
 
 If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/1)
 
@@ -103,11 +103,11 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 |:----:|:----:|
 | <h1>52</h1> | Internet, IFTTT, Security Mode |
  
+Bart
+> _"Set them up at my work to show when tasks at my home computer are done (eg. downloads)"_
 
-> _""_
-
-
-> _""_
+Brian
+> _"Remote access and security camera system"_
 
 If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/5)
 
@@ -152,11 +152,11 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 |:----:|:----:|
 | <h1>21</h1> | An app that can control your LIFX bulbs from your Mac or PC |
  
+John
+> _"I'd love to have a desktop app to control all of my bulbs around the house."_
 
-> _""_
-
-
-> _""_
+Anindya
+> _"It should be accessible by iPhone or any other mobile devices, desktop, laptop"_
 
 If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/8)
 
@@ -168,11 +168,11 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 |:----:|:----:|
 | <h1>18</h1> | Use in dark room, Colour accuracy |
  
+Kevin
+> _"These would be fantastic to use in my photography studio! I could replace the compact florescent bulbs in my studio soft boxes and the lighting possibilities would be fantastic...everything from portrait to commercial photographs."_
 
-> _""_
-
-
-> _""_
+Phillip
+> _"I'd like to be able to select a specific color temperature. This would be useful for photography purposes."_
 
 If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/9)
 
@@ -184,11 +184,11 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 |:----:|:----:|
 | <h1>13</h1> | An app that can control your LIFX bulbs using your voice |
  
+Joógvan
+> _"It would be amazing, if lifx would be able to run with others systems. Imagine if you could control lights, temperature, ac, music, media and other stuff with one piece of software. Add some voice control and it's virtually Star Trek!"_
 
-> _""_
-
-
-> _""_
+Matt
+> _"It would be cool to integrate the microphone on the iPhone to control LIFX with voice/sound commands..."_
 
 If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/10)
 
@@ -200,11 +200,11 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 |:----:|:----:|
 | <h1>10</h1> | An app that can control LIFX bulbs using gestures and movement |
  
+Dov
+> _"Another idea is to integrate a motion sensor into the unit that can sense gestures so you can literally point at a light with your arm out and it will turn on or make a swipe motion with your hand in the air to turn that light off."_
 
-> _""_
-
-
-> _""_
+Joe
+> _"It would be great to be able to use gestures to control my lights."_
 
 If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/11)
 
@@ -216,11 +216,11 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 |:----:|:----:|
 | <h1>9</h1> | LIFX bulbs can be used to light a path leading to an exit |
  
+Gary
+> _"What about putting them in your porch lights so that if you have an emergency in the house it would make it easier to for responders to find your house...it could be a 911 bulb and flash red and white to draw attention to your house."_
 
-> _""_
-
-
-> _""_
+David
+> _"I think it's a must that it has an emergency warning feature. In otherwords, they should be able to wake someone if the area they're in is about to experience an earthquake, tornado, or a tsunami. In these life and death situations, seconds count."_
 
 If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/12)
 
@@ -232,11 +232,11 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 |:----:|:----:|
 | <h1>3</h1> | Map out all of your LIFX bulbs throughout your house |
  
+Kathy
+> _"What about being able to map out my house with the position of LIFX bulbs."_
 
-> _""_
-
-
-> _""_
+Markus
+> _"Introduce an inovative way to controll your LIFX individualy: a floor plan of your house where all LIFX are displayed. Just with a touch on any location or room you may change the settings of everything..."_
 
 If you'd like to comment on this feature, you can do so [here](https://github.com/LIFX/LIFX-customer-suggestions/issues/13)
 
