@@ -37,7 +37,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>16.15%</h1> | Countdown timers and scheduling |
+| <h1>16.02%</h1> | Countdown timers and scheduling |
  
 Gustavo
 > _"When your phone countdown gets off, that the lights could change color in a sequence until you snooze your phone."_
@@ -53,7 +53,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>15.94%</h1> | Music Visualisation, Matching the color of LIFX bulbs to TV, Movies, Gaming, or other items on TV screens |
+| <h1>15.14%</h1> | Music Visualisation, Matching the color of LIFX bulbs to TV, Movies, Gaming, or other items on TV screens |
  
 Ally
 > _"MY IDEA WOULD BE -Movie Mode (maybe somehow linked with Imdb or something) eg for a horror movie, you would search the movie name and it would still react to sound but maybe a light dimming pulse of lights when the movie is doing the creepy music, lights off for most the talking and flash with full bright when someone jumps out."_
@@ -69,7 +69,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>12.42%</h1> | Motion Sensors, Doorbells, Z-wave |
+| <h1>11.42%</h1> | Motion Sensors, Doorbells, Z-wave |
 
 Stanley
 > _"I would like a motion-sensor built in. I have backyard parties/bbqs/cookouts/etc. and once it's dark enough my solar lights kick in. I think it would be neat if the LIFX bulbs would turn on low when someone enters the sensor range, get brighter as the object gets closer, and then dimmer as it gets further away."_
@@ -85,7 +85,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>11.59%</h1> | I always sleep through my alarm |
+| <h1>11.19%</h1> | I always sleep through my alarm |
  
 Matthew
 > _"I'd really like to have the ability to use the smart bulbs as an alarm - to wake me in the morning. I'd want the option to use flashing colors or a gradually increasing white light."_
@@ -101,7 +101,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>10.77%</h1> | Internet, IFTTT, Security Mode |
+| <h1>10.71%</h1> | Internet, IFTTT, Security Mode |
  
 Bart
 > _"Set them up at my work to show when tasks at my home computer are done (eg. downloads)"_
@@ -117,7 +117,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>10.35%</h1> | I want my Bulbs to tell me when important stuff happens |
+| <h1>10.15%</h1> | I want my Bulbs to tell me when important stuff happens |
  
 Aron
 > _"For your everyday sports fan, you could have the lights flash your teams colors for an assortment of things notifying you a game has started or finished, when your team has scored or the other"_
@@ -133,7 +133,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>7.45%</h1> | When I get home from work, it's dark |
+| <h1>6.45%</h1> | When I get home from work, it's dark |
  
 Franklin
 > _"Allow the lights to figure out what you're doing and automatically change settings accordingly.
@@ -150,7 +150,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>4.35%</h1> | An app that can control your LIFX bulbs from your Mac or PC |
+| <h1>4.12%</h1> | An app that can control your LIFX bulbs from your Mac or PC |
  
 John
 > _"I'd love to have a desktop app to control all of my bulbs around the house."_
@@ -166,7 +166,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>3.73%</h1> | Use in dark room, Colour accuracy |
+| <h1>2.91%</h1> | Use in dark room, Colour accuracy |
  
 Kevin
 > _"These would be fantastic to use in my photography studio! I could replace the compact florescent bulbs in my studio soft boxes and the lighting possibilities would be fantastic...everything from portrait to commercial photographs."_
@@ -182,7 +182,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>2.69%</h1> | An app that can control your LIFX bulbs using your voice |
+| <h1>2.39%</h1> | An app that can control your LIFX bulbs using your voice |
  
 Joógvan
 > _"It would be amazing, if lifx would be able to run with others systems. Imagine if you could control lights, temperature, ac, music, media and other stuff with one piece of software. Add some voice control and it's virtually Star Trek!"_
@@ -214,7 +214,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>1.86%</h1> | LIFX bulbs can be used to light a path leading to an exit |
+| <h1>1.46%</h1> | LIFX bulbs can be used to light a path leading to an exit |
  
 Gary
 > _"What about putting them in your porch lights so that if you have an emergency in the house it would make it easier to for responders to find your house...it could be a 911 bulb and flash red and white to draw attention to your house."_
@@ -230,7 +230,7 @@ If you'd like to comment on this feature, you can do so [here](https://github.co
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>0.62%</h1> | Map out all of your LIFX bulbs throughout your house |
+| <h1>0.52%</h1> | Map out all of your LIFX bulbs throughout your house |
  
 Kathy
 > _"What about being able to map out my house with the position of LIFX bulbs."_
