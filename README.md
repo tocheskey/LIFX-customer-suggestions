@@ -37,7 +37,7 @@ At LIFX we're currently experimenting with the following ideas. If you beat us t
 
 | Requests | Use-case |
 |:----:|:----:|
-| <h1>78</h1> |  |
+| <h1>78</h1> | Countdown timers and scheduling |
  
 Gustavo
 > _"When your phone countdown gets off, that the lights could change color in a sequence until you snooze your phone."_
